@@ -1,0 +1,18 @@
+<api>
+    <header>Stanlay Park Digital Interview</header>
+    <info>Basic API to manage References, Candidates and Recruiters</info>
+    
+    <routes>
+        <header>Routes</header>
+        <info></info>
+        <routes>
+            <route>
+                <method>GET</method>
+                <controller>Api::RecruitersController</controller>
+                <URL>/api/recruiters</URL>
+                <action>index</action>
+                <about>Returns all recruiters with a list of assigned candidates</about>
+            </route>
+        </routes>
+    </routes>
+</api>
