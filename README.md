@@ -8,5 +8,5 @@ One you covered all the requirements, please create a public repository on your 
 
 ## Challenges
 
-- [E-references checking models](/e-references/README.md)
-- [Internal messaging app](/chat/README.md)
+- [E-references checking models](/e-references)
+- [Internal messaging app](/chat)
