@@ -1,29 +1,12 @@
-# Stanlay Park Digital Interview
+# Stanlay Park Digital interviews
 
-Thanks for taking the time to complete this exercise.
+Thanks for considering the time to join our team.
 
-We would ask you to implement a basic API to manage `References`, `Candidates` and `Recruiters` for a candidates references management app.
+Following our first interview, we have assigned to you a technical challenge by email. **PLEASE THE ONLY ONE THAT HAS BEEN ASSIGNED TO YOU**
 
-For each recruiter, we have a list of candidates assigned to him, with a collection of references. A recruiter can create a candidate. A candidate can add reference to himself.
-A reference assigned a score to his candidate.
+One you covered all the requirements, please create a public repository on your GitHub profile and share it with our team at [vincent@stanleyparkdigital.com](mailto:vincent@stanleyparkdigital.com)
 
-## Back end requirements
+## Challenges
 
-* Entity Relationship model
-* RESTful endpoints
-  * CRUD Candidates
-  * CRUD References
-  * CRUD Recruiters
-
-Please consider to build this project in a **two hours timeframe**. If you are not covering 100% of this scenario, feel free to send it to us as it is.
-
-## Submitting your project
-
-To submit your project, please create a public repository on your github account and send us the link.
-
-If you have any question, feel free to shoot us an email to [vincent@stanleyparkdigital.com](mailto:vincent@stanleyparkdigital.com)
-
-## Bonus
-
-* Build front end (Angular 5+)
-* Implement [JSON API](http://jsonapi.org/)
+- [E-references checking models](/e-references/README.md)
+- [Internal messaging app](/chat/README.md)
