@@ -31,7 +31,7 @@ If you have any question, feel free to shoot us an email to [vincent@stanleypark
 
 ## Bonus
 
-- Build front end with Angular 7+
-- Build front end with ExpressJS / NodeJs
+- Build the front end with Angular 7+
+- Build the back end with ExpressJS / NodeJs
 - Write e2e tests
 - Implement [JSON API](http://jsonapi.org/)
