@@ -1,8 +1,8 @@
-# Ruby on Rails
+# e-References
 
 You have to implement a basic API to manage `References`, `Candidates` and `Recruiters` for a candidates references management app.
 
-For each recruiter, we have a list of candidates assigned to him, with a collection of references. A recruiter can create a candidate. A candidate can add reference to himself.
+For each recruiter, we have a list of candidates assigned to them, with a collection of references. A recruiter can create a candidate. A candidate can add reference to themselves.
 A reference assigned a score to his candidate.
 
 ## Back end requirements
@@ -19,7 +19,7 @@ Please consider to build this project in a **two hours timeframe**. If you are n
 
 To submit your project, please create a public repository on your github account and send us the link.
 
-If you have any question, feel free to shoot us an email to [vincent@stanleyparkdigital.com](mailto:vincent@stanleyparkdigital.com)
+If you have any question, feel free to shoot us an email to [vincent@vitay.io](mailto:vincent@vitay.io)
 
 ## Bonus
 
