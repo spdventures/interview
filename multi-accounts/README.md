@@ -1,13 +1,17 @@
 # Multi accounts
 
-You have to implement a basic API to manage `Users`, `Companies`, `Recruiters` and `Candidates` for a e-references management app.
+Our customer base has more and more corporate accounts.
+Because of that, they need to manage branch acccounts on our e-references checking app.
+
+In that goal, you have to implement a basic API to manage `Users`, `Companies`, `Recruiters` and `Candidates`.
 
 ## Case study
 
-A company has multiple recruiters.
-A recruiter can be part of multiple companies.
-A candidate has one recruiter assigned to them.
-A user can be a recruiter or a candidate. (first name, last name, email password)
+- A company can have one parent company. The parent company can manage all children ones.
+- A company has multiple recruiters.
+- A recruiter can be part of multiple companies.
+- A candidate has one recruiter assigned to them.
+- A user can be a recruiter or a candidate. (first name, last name, email password)
 
 
 ## Requirements
